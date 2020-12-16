@@ -1,8 +1,10 @@
 # DOCKER DEMO
-#
-#
-#
 
-> edit start_docker.sh
-> docker build .
-> docker run <image name>
+##### Edit the paths in the start_docker.sh file.
+#
+```
+docker build .
+docker images -> check image
+docker run <image code>
+echo "Test file search string." > ./share/test_docker_file1.txt
+```
