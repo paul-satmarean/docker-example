@@ -1,6 +1,0 @@
-test1.txt
-test2.txt
-bla.txt
-test_docker.txt
-test_docker.txt
-test_docker_file1.txt
