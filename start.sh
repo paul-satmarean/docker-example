@@ -1,0 +1,1 @@
+python3 /app/scripts/process_files.py

@@ -1,0 +1,1 @@
+docker run -it --mount type=bind,source=/home/paul/docker-test,target=/app 9a6ffd928644
